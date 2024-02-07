@@ -1,0 +1,13 @@
+body {
+    font-family: 'Gill Sans', sans-serif;
+    background-color: #a6ee76;
+}
+#main-title{
+    margin: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.context {
+    margin-bottom: 12px;
+}
